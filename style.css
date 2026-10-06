@@ -1,7 +1,11 @@
+body {
+    max-width: 100vw;
+}
+
+
 ;header{
                 background-color: rgb(182, 135, 226);
                 text-align: center;
-                max-width: 800px;
                 margin: 0 auto;
                 padding: 16px;
                 border: 5px solid #6b2b96;
@@ -9,7 +13,6 @@
             main{
                 background-color: rgb(168, 118, 214);
                 text-align: center;
-                max-width: 800px;
                 margin: 0 auto;
                 padding: 16px;
             }
